@@ -118,7 +118,7 @@ int main()
     
     
     
-    cout << "Input nilai siswa 1 : " << endl;
+    cout << "Input nilai siswa 5 : " << endl;
     cin >> e;
     
     if ( e >= 80){
